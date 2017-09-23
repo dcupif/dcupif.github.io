@@ -4,21 +4,32 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Hi, my name is Damien. Welcome to my personal website!
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I love hacking things and coding some new ideas. Many times, I found myself
+struggling with some new technology or concept that I wanted to learn, and I
+was always amazed when I found online useful resources written by people.
 
-<h2>Skills</h2>
+So I decided to do the same and write about tech stuff. Hopefully this will be
+helpful to others. I know it will be, at least to my future self to remember how
+I solved issues and fixed things.
+
+I just graduated and obtained my Master's Degree from the French engineering school
+[TELECOM Nancy][1], specialized in Information Technology. This brought me a strong
+background in computer science fundamentals, as well as good understanding and
+knowledge of networks and cybersecurity concerns.
+
+These days, I have the incredible opportunity to work full-time in the United
+States at the [National Institute of Standards and Technology][2] as a computer
+scientist researcher. As a proud member of the Software Assurance Metrics And
+Tool Evaluation ([SAMATE][3]) team, my work consists in designing and testing
+new ways to inject bugs into software in order to understand how those are
+inserted in production code.
+
+If you would like to contact me, feel free to drop me a line! Check for my contact
+information on the [home][4] page.
+
+<!-- <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
@@ -43,4 +54,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul> -->
+
+[1]: http://telecomnancy.univ-lorraine.fr/en
+[2]: https://www.nist.gov/
+[3]: https://samate.nist.gov/Main_Page.html
+[4]: https://dcupif.github.io
