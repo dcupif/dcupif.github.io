@@ -1,6 +1,6 @@
 # main text of home
 name: Damien Cupif
-bio: Eating, Hacking, Coding, Sleeping... Repeat!
+bio: I help companies build more secure and reliable software
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -82,7 +82,7 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
