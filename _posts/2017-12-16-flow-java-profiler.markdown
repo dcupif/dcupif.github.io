@@ -15,13 +15,13 @@ description: "Presentation of Flow, a developer tool that makes it easy to under
 
 Have you ever had to make complex changes to a code base you knew nothing about in a short time frame? If yes, then you probably know how much a pain it can be to understand the internal workings of a project that you have not contributed to. Especially if you are targetting a large project.
 
-In this article, I'll talk about Flow, a tool designed to help developers understand the structure and behavior of their Java applications. I will explain why, and how, we use it in our team at [NIST][1].
+In this article, I'll talk about [Flow][1], a tool designed to help developers understand the structure and behavior of their Java applications. I will explain why, and how, we use it in our team at [NIST][2].
 
 ---
 
 ## Motivations
 
-Part of my work among the [Software Assurance Metrics And Tool Evaluation (SAMATE)][2] team at NIST, is to design test suites that are used to evaluate the performance of source code analyzers. Source code analyzers are tools that can parse your source code and/or execute it to find security flaws and report them. 
+Part of my work among the [Software Assurance Metrics And Tool Evaluation (SAMATE)][3] team at NIST, is to design test suites that are used to evaluate the performance of source code analyzers. Source code analyzers are tools that can parse your source code and/or execute it to find security flaws and report them. 
 
 To design such test suites we are interested in manually injecting security issues into production software. This means essentially that we examine a project's code base and look either for existing flaws or specific locations where we could actually inject insecure behavior.
 
@@ -97,8 +97,8 @@ Some features are still missing, like the ability to easily share the recordings
 
 I was really glad when my colleague found this tool, because it gave us just the right amount of information relevant to us. However, with such a cool name, it was hard to find Flow. Therefore, I hope this article will help people find this tool!
 
-If you want to learn more about it, I highly recommend you to check out their [official website][3] (from which are taken the nice animations :yum:).
+If you want to learn more about it, I highly recommend you to check out their [official website][1] (from which are taken the nice animations :yum:).
 
-[1]: https://www.nist.gov/
-[2]: https://samate.nist.gov/Main_Page.html
-[3]: http://findtheflow.io/
+[1]: http://findtheflow.io/
+[2]: https://www.nist.gov/
+[3]: https://samate.nist.gov/Main_Page.html
