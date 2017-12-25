@@ -20,7 +20,7 @@ background in computer science fundamentals, as well as good understanding and
 knowledge of networks and cybersecurity concerns.
 
 These days, I have the incredible opportunity to work full-time in the United
-States at the [National Institute of Standards and Technology][2] as a computer
+States at the National Institute of Standards and Technology ([NIST][2]) as a computer
 scientist researcher. As a proud member of the Software Assurance Metrics And
 Tool Evaluation ([SAMATE][3]) team, my work consists in designing and testing
 new ways to inject bugs into software in order to understand how those are
