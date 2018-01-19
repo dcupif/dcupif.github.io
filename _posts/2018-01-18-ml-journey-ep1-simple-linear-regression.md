@@ -6,16 +6,16 @@ headerImage: false
 tag:
 - python
 - machine learning
-- regression
+- linear regression
 category: blog
 author: damiencupif
 description: "An introduction to univariate linear regression."
 use-math: true
 ---
 
-*This article is also available as an interactive [Jupyter](http://jupyter.org/) notebook which provides an environment to reproduce the below results by running the code directly in your browser. This will allow you to tweak some parameters and experiment yourself with the material! You don't have to install anything thanks to the [Binder](https://mybinder.org/) service, yes, it's that simple, it's magic!*
+*This article is also available as an interactive [Jupyter](http://jupyter.org/) notebook which provides an environment to reproduce the below results by running the code directly in your browser. This will allow you to tweak some parameters and experiment yourself with the material! You don't have to install anything thanks to [Binder](https://mybinder.org/)'s service, yes, it's that simple, it's magic!*
 
-***Just click [here](https://mybinder.org/v2/gh/dcupif/ML-cookbook/master) to get started!***
+<span class="evidence">*Just click [here](https://mybinder.org/v2/gh/dcupif/ML-cookbook/master), wait for it to launch, and open the "cookbook" directory to get started!*</span>
 
 ---
 
@@ -48,7 +48,7 @@ plt.show()
 ![png](/assets/images/output_4_0.png)
 
 
-Given this scatter plot where heights are represented on the "x" axis and weights on the "y" axis, how would you procede to draw the "best fitting line" through the data?
+Given this scatter plot where heights are represented on the "$x$" axis and weights on the "$y$" axis, how would you procede to draw the "best fitting line" through the data?
 
 This is where linear regression comes in.
 
